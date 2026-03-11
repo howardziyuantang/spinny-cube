@@ -1,6 +1,7 @@
 # spinny-cube - epilepsy warning!
 
-click and drag mouse to spin cube, you can get some cool holographic effects if you spin it fast enough
+click and drag mouse to spin the cube
+you can get some cool holographic effects if you spin it fast enough (although hard to see through the demo video) - feature not a bug ahh
 
 the white circle indicates where the mouse movement changes axes, outside the circle rotates along x-axis
 
